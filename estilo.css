@@ -1,0 +1,21 @@
+h1{
+    color: #8a2be2;
+}
+
+h2{
+    margin: 0px;
+}
+
+/*#teste{
+    width: 400px;
+    border: solid black 1px;
+    padding: 30px;
+    margin: 50px;
+}*/
+
+.time{
+    width: 400px;
+    border: solid black 1px;
+    padding: 30px;
+    margin: 20px;
+}
